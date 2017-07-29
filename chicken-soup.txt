@@ -1,8 +1,8 @@
 Ingredients:
 	1 (3 pound) whole chicken
-<<<<<<< HEAD
 	2 carrots, halved
 	2 stalks celery, halved
+	garlic
 	1 large onion, halved
 	water to cover
 	salt and pepper to taste
